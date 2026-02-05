@@ -1,1 +1,4 @@
-
+flask==2.3.3
+requests==2.31.0
+pyjwt==2.8.0
+sqlite3-binary==0.5.2
